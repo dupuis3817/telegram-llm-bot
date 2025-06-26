@@ -1,0 +1,5 @@
+[project]
+name = "telegram-llm-bot"
+version = "0.1.0"
+description = "Local-first Telegram AI bot with Ollama tool calling, voice transcription, MinIO storage, SearchApi web search, and readiness checks"
+requires-python = ">=3.10"
